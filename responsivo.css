@@ -27,7 +27,7 @@
 		border-top-left-radius: 0;
 		border-bottom-left-radius: 0;
 		margin-bottom: 0;
-		border-radius: 8px;
+		border-radius: 50px 10px 50px 10px / 10px 50px 10px 50px;
 	}
 
 	.listagem ul {
